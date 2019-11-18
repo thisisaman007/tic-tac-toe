@@ -1,0 +1,7 @@
+canvas{
+    background: linear-gradient(to top,#1c172a, rgba(55, 26, 149, 0.94), rgba(21, 103, 185, 0.81),rgb(154, 225, 230));
+}
+body{
+    margin: 0;
+    padding: 0;
+}
