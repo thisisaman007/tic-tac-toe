@@ -175,7 +175,7 @@ function cheakWinner(){
            { alert("Winner"+ activeplayer%2);
            setTimeout(function(){document.location.reload();},300);
            }
-            else if(activeplayer==9){
+            else if(activeplayer>9){
                 alert("Draw");
            setTimeout(function(){document.location.reload();},300);
             }
